@@ -17,8 +17,8 @@ I am a passionate Researcher specializing in Trustworthy AI and Healthcare AI. M
  
  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=darshanz&show_icons=true&theme=dark&rank_icon=github" alt="darshanz's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanz&layout=compact&theme=dark" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=darshanz&show_icons=true&rank_icon=github" alt="darshanz's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanz&layout=compact" alt="Top Languages" />
 </p>
 
 ---
