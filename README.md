@@ -1,14 +1,10 @@
 #### Greetings! I'm Sudarshan!
 
-
-
----
-
-### 💡 About Me
+ 
 
 I am a passionate Researcher specializing in Trustworthy AI and Healthcare AI. My focus is on Data Science and AI Research. 
 
-##### AI/ML Researcher | Data Scientist | Trustworthy AI | AI in Healthcare | Evolutionary Computing | Affective Computing
+##### AI/ML Researcher | Data Scientist | Trustworthy AI | AI in Healthcare | Evolutionary Computing | Affective Computing 
 
 
 ## Repository Links
