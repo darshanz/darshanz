@@ -9,7 +9,7 @@ I am a passionate Researcher specializing in Trustworthy AI and Healthcare AI. M
 
 ## Repository Links
  **Data Engineering & Pipelines**
-- [airflow-demo](https://github.com/nathadriele/ifood-data-governance-pipeline) – heart_risk_pred_pipeline using Airflow
+- [airflow-demo](https://github.com/darshanz/airflow-demo) – heart_risk_pred_pipeline using Airflow
 - [pdfchat-rag](https://github.com/darshanz/pdfchat-rag) - a modular, containerized application that enables semantic search and chat over PDF documents using RAG. Built with Flask, Celery, Ollama, ChromaDB
  
 **AI/ML in Healthcare**
