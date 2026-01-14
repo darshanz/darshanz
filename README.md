@@ -7,6 +7,7 @@ I am a passionate Researcher specializing in Trustworthy AI and Healthcare AI. M
 ##### AI/ML Researcher | Data Scientist | Trustworthy AI | AI in Healthcare | Evolutionary Computing | Affective Computing 
 
 
+## Repository Links
 **AI/ML in Healthcare**
 - [MicroRNA-Signatures-for-Neurodegenerative-Diseases
 ](https://github.com/darshanz/MicroRNA-Signatures-for-Neurodegenerative-Diseases) – Analysis for identifying microRNA signatures associated with various neurodegenerative diseases using publicly available gene expression datasets.
@@ -22,7 +23,6 @@ I am a passionate Researcher specializing in Trustworthy AI and Healthcare AI. M
 - [SmokingStatusPrediction4COPD
 ](https://github.com/darshanz/SmokingStatusPrediction4COPD) - Supplimentary Information for the paper: Development of a Deep Learning Model to Predict Smoking Status in Patients with Chronic Obstructive Pulmonary Disease: A Secondary Analysis of Cross-sectional National Survey
 
-## Repository Links
  **Data Engineering & Pipelines**
 - [airflow-demo](https://github.com/darshanz/airflow-demo) – heart_risk_pred_pipeline using Airflow
 - [pdfchat-rag](https://github.com/darshanz/pdfchat-rag) - a modular, containerized application that enables semantic search and chat over PDF documents using RAG. Built with Flask, Celery, Ollama, ChromaDB
