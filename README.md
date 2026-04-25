@@ -8,9 +8,23 @@ I am a passionate Researcher specializing in Trustworthy AI and Healthcare AI. M
 
 
 ## Repository Links
+
+**Evolutionary Computing**
+
+- [finchGE](https://github.com/finchGE/finchge) A Modular Grammatical Evolution Library : FinchGE is a modern, modular, and user-friendly Python library for Grammatical Evolution (GE)- a powerful evolutionary algorithm that uses formal grammars to evolve programs, expressions, and solutions.
+
+- [finchge-examples](https://github.com/finchGE/finchge-examples) Example projects for demonstration of FinchGE API Usage.
+
+
 **AI/ML in Healthcare**
-- [MicroRNA-Signatures-for-Neurodegenerative-Diseases
-](https://github.com/darshanz/MicroRNA-Signatures-for-Neurodegenerative-Diseases) – Analysis for identifying microRNA signatures associated with various neurodegenerative diseases using publicly available gene expression datasets.
+
+- [wearable-health-llmops](https://github.com/darshanz/wearable-health-llmops) A health prediction system that uses wearable sensor features to estimate readiness with either classical ML models or local LLMs through a containerized API and interactive UI.
+
+- [cohort-selection-criteria-extractor](https://github.com/darshanz/cohort-selection-criteria-extractor) A rule-based approach for extracting structured cohort selection information from PubMed Central full-text NXML articles, achieving the score 0.74096 on the Kaggle task: [CohortX Task 1: Extracting Cohort Selection Criteria from Free-Texts | Kaggle](https://www.kaggle.com/competitions/cohort-x-task-1/leaderboard).
+
+- [MicroRNA-Signatures-for-Neurodegenerative-Diseases](https://github.com/darshanz/MicroRNA-Signatures-for-Neurodegenerative-Diseases) – Analysis for identifying microRNA signatures associated with various neurodegenerative diseases using publicly available gene expression datasets.
+
+- [MicroRNA-Signatures-for-Neurodegenerative-Diseases](https://github.com/darshanz/MicroRNA-Signatures-for-Neurodegenerative-Diseases) – Analysis for identifying microRNA signatures associated with various neurodegenerative diseases using publicly available gene expression datasets.
 
 - [microRNA-dementia-risk-prediction](https://github.com/darshanz/microRNA-dementia-risk-prediction) – Machine learning system for predicting dementia risk using serum miRNA biomarkers.
 
@@ -20,8 +34,7 @@ I am a passionate Researcher specializing in Trustworthy AI and Healthcare AI. M
 
 - [multiomics-survival-prediction](https://github.com/darshanz/multiomics-survival-prediction) - Predicting survival in head and neck cancer patients using clinical data, genetic information, and CT scan analysis. Combines multiple data types to build better prognostic models.
 
-- [SmokingStatusPrediction4COPD
-](https://github.com/darshanz/SmokingStatusPrediction4COPD) - Supplimentary Information for the paper: Development of a Deep Learning Model to Predict Smoking Status in Patients with Chronic Obstructive Pulmonary Disease: A Secondary Analysis of Cross-sectional National Survey
+- [SmokingStatusPrediction4COPD](https://github.com/darshanz/SmokingStatusPrediction4COPD) - Supplimentary Information for the paper: Development of a Deep Learning Model to Predict Smoking Status in Patients with Chronic Obstructive Pulmonary Disease: A Secondary Analysis of Cross-sectional National Survey
 
  **Data Engineering & Pipelines**
 - [airflow-demo](https://github.com/darshanz/airflow-demo) – heart_risk_pred_pipeline using Airflow
