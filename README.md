@@ -20,7 +20,9 @@ I am a passionate Researcher specializing in Trustworthy AI and Healthcare AI. M
 
 - [wearable-health-llmops](https://github.com/darshanz/wearable-health-llmops) A health prediction system that uses wearable sensor features to estimate readiness with either classical ML models or local LLMs through a containerized API and interactive UI.
 
-- [cohort-selection-criteria-extractor](https://github.com/darshanz/cohort-selection-criteria-extractor) A rule-based approach for extracting structured cohort selection information from PubMed Central full-text NXML articles, achieving the score 0.74096 on the Kaggle task: [CohortX Task 1: Extracting Cohort Selection Criteria from Free-Texts | Kaggle](https://www.kaggle.com/competitions/cohort-x-task-1/leaderboard).
+- [cohortkit](https://github.com/darshanz/cohortkit) A lightweight Python package for extracting cohort-selection criteria from biomedical full-text articles in NXML format.
+
+- [kaggle-cohortx2026-task1)](https://github.com/darshanz/kaggle-cohortx2026-task1) A rule-based approach for extracting structured cohort selection information from PubMed Central full-text NXML articles, achieving the score 0.74096 on the Kaggle task: [CohortX Task 1: Extracting Cohort Selection Criteria from Free-Texts | Kaggle](https://www.kaggle.com/competitions/cohort-x-task-1/leaderboard).
 
 - [MicroRNA-Signatures-for-Neurodegenerative-Diseases](https://github.com/darshanz/MicroRNA-Signatures-for-Neurodegenerative-Diseases) – Analysis for identifying microRNA signatures associated with various neurodegenerative diseases using publicly available gene expression datasets.
 
