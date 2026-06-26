@@ -16,7 +16,10 @@ I am a passionate Researcher specializing in Trustworthy AI and Healthcare AI. M
 - [finchge-examples](https://github.com/finchGE/finchge-examples) Example projects for demonstration of FinchGE API Usage.
 
 
-**AI/ML in Healthcare**
+**AI/ML**
+
+- [IrelandAQ](https://github.com/darshanz/IrelandAQ) – Irish air quality monitoring platform ingesting live sensor readings from the OpenAQ API. Uses a PostgreSQL/PostGIS database, triggers forecasting
+pipelines through Apache Airﬂow, tracks ML experiments with MLﬂow, and exposes everything through a Django REST Framework API.
 
 - [wearable-health-llmops](https://github.com/darshanz/wearable-health-llmops) A health prediction system that uses wearable sensor features to estimate readiness with either classical ML models or local LLMs through a containerized API and interactive UI.
 
@@ -35,16 +38,7 @@ I am a passionate Researcher specializing in Trustworthy AI and Healthcare AI. M
 - [multiomics-survival-prediction](https://github.com/darshanz/multiomics-survival-prediction) - Predicting survival in head and neck cancer patients using clinical data, genetic information, and CT scan analysis. Combines multiple data types to build better prognostic models.
 
 - [SmokingStatusPrediction4COPD](https://github.com/darshanz/SmokingStatusPrediction4COPD) - Supplimentary Information for the paper: Development of a Deep Learning Model to Predict Smoking Status in Patients with Chronic Obstructive Pulmonary Disease: A Secondary Analysis of Cross-sectional National Survey
-
- **Data Engineering & Pipelines**
-- [airflow-demo](https://github.com/darshanz/airflow-demo) – heart_risk_pred_pipeline using Airflow
-- [pdfchat-rag](https://github.com/darshanz/pdfchat-rag) - a modular, containerized application that enables semantic search and chat over PDF documents using RAG. Built with Flask, Celery, Ollama, ChromaDB
  
-
-**Misc**
-- [IrelandAQ](https://github.com/darshanz/IrelandAQ) – Irish air quality monitoring platform ingesting live sensor readings from the OpenAQ API. Uses a PostgreSQL/PostGIS database, triggers forecasting
-pipelines through Apache Airﬂow, tracks ML experiments with MLﬂow, and exposes everything through a Django REST Framework API.
-
 - [ETRI-Human-Understanding-AI-Paper-Competition](https://github.com/darshanz/ETRI-Human-Understanding-AI-Paper-Competition) - About
 EDA, Preprocessign and Model Training code for The 2nd ETRI Human Understanding Artificial Intelligence Paper Competition.
 
