@@ -26,8 +26,6 @@ I am a passionate Researcher specializing in Trustworthy AI and Healthcare AI. M
 
 - [MicroRNA-Signatures-for-Neurodegenerative-Diseases](https://github.com/darshanz/MicroRNA-Signatures-for-Neurodegenerative-Diseases) – Analysis for identifying microRNA signatures associated with various neurodegenerative diseases using publicly available gene expression datasets.
 
-- [MicroRNA-Signatures-for-Neurodegenerative-Diseases](https://github.com/darshanz/MicroRNA-Signatures-for-Neurodegenerative-Diseases) – Analysis for identifying microRNA signatures associated with various neurodegenerative diseases using publicly available gene expression datasets.
-
 - [microRNA-dementia-risk-prediction](https://github.com/darshanz/microRNA-dementia-risk-prediction) – Machine learning system for predicting dementia risk using serum miRNA biomarkers.
 
 - [ML-for-Cardiovascular-Disease-Diagnosis](https://github.com/darshanz/ML-for-Cardiovascular-Disease-Diagnosis) – Comparison of performance of various ML models on binary classification of cardiovascular disease (CVD) using four distinct public datasets. (Aiflow) 
@@ -44,6 +42,9 @@ I am a passionate Researcher specializing in Trustworthy AI and Healthcare AI. M
  
 
 **Misc**
+- [IrelandAQ](https://github.com/darshanz/IrelandAQ) – Irish air quality monitoring platform ingesting live sensor readings from the OpenAQ API. Uses a PostgreSQL/PostGIS database, triggers forecasting
+pipelines through Apache Airﬂow, tracks ML experiments with MLﬂow, and exposes everything through a Django REST Framework API.
+
 - [ETRI-Human-Understanding-AI-Paper-Competition](https://github.com/darshanz/ETRI-Human-Understanding-AI-Paper-Competition) - About
 EDA, Preprocessign and Model Training code for The 2nd ETRI Human Understanding Artificial Intelligence Paper Competition.
 
